@@ -33,7 +33,7 @@
     "markdown-to-jsx": "^6.9.3",
     "moment": "^2.24.0",
     "mongoose": "^5.5.1",
-    "next": "^8.0.4",
+    "next": "^13.0.3",
     "nodemon": "^1.18.11",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
